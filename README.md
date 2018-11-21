@@ -30,11 +30,9 @@ Ejemplo
  <div id="buttonStatic"></div>
 ```
 
-3º Llamar a la funcion dibujarMenuLateral("buttonStatic"); en el script donde esta la vista inicial de la aplicacion
-
+3º Llamar a la funcion dibujarMenuLateral("buttonStatic"); indicando el id del div donde quieres añadir el menu.
 ```
 $(document).ready(function(){
-    $('[data-toggle="tooltip"]').tooltip({'delay': { show: 1500}, placement: "auto"});
     dibujarmenulateral("buttonStatic");
 });
 ```
