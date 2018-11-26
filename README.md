@@ -18,10 +18,14 @@ A nivel de /portal-pas estan disponibles los ficheros javascript que sirven los 
 
 #### Ficheros button-static-[aplicacion].js
 Los ficheros javascript que siguen este nombre son los menus laterales preparados para las aplicaciones configurados para el CSS de cada aplicacion. 
+
+### Actualmente disponibles
+menu lateral para aplicacion de parking disponible en https://dev.etsit.upm.es/portal-pas/static-button-parking
+
 Se pueden insertar en las aplicaciones mediante las siguientes instrucciones
 
 ### Insertar Menu Lateral en el resto de aplicaciones
-1º Insertar el script disponible en https://dev.etsit.upm.es/portal-pas/button-static-[aplicacion].js 
+1º Insertar el script disponible en https://dev.etsit.upm.es/portal-pas/button-static-[aplicacion]
 
 Ejemplo
 
